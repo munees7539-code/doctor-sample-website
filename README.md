@@ -7,7 +7,7 @@ Built using **HTML, CSS, and JavaScript**, this project showcases a professional
 
 ## 🌐 Live Demo
 
-👉doctor-sample-website.vercel.app
+👉https://doctor-sample-website.vercel.app/
 
 ---
 
