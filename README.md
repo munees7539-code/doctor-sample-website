@@ -7,7 +7,6 @@ Built using **HTML, CSS, and JavaScript**, this project showcases a professional
 
 ## 🌐 Live Demo
 
-👉 https://sampledoctorwebsite.vercel.app
 
 ---
 
@@ -57,30 +56,5 @@ doctor-sample-website
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Download or clone the repository
 
-```
-git clone https://github.com/munees7539-code/doctor-sample-website.git
-```
-
-2. Open the project folder.
-
-3. Run the website by opening:
-
-```
-doctor.html
-```
-
-in your browser.
-
----
-
-## 📬 Contact
-
-If you want to collaborate or customize this project, feel free to connect.
-
----
-
-⭐ If you like this project, don't forget to **star the repository**.
