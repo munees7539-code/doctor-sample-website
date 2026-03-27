@@ -46,9 +46,15 @@ Minimalist interface with smooth animations and professional styling.
 
 ---
 ##🖼️ Screenshots
+
 🏠 1️⃣ Home Page
 <img width="1866" height="866" alt="Screenshot 2026-03-27 111735" src="https://github.com/user-attachments/assets/05ef3dcc-0272-4ae0-91dc-a55bcb09e30b" />
+🏥 2️⃣ Expertise / Services Page
+<img width="1755" height="894" alt="Screenshot 2026-03-27 111812" src="https://github.com/user-attachments/assets/d00254e2-cc1f-4c13-a648-df672e938886" />
+📞 3️⃣ Contact Page 
+<img width="1542" height="893" alt="Screenshot 2026-03-27 111845" src="https://github.com/user-attachments/assets/cbae3b82-85c8-4a9c-a004-f0373e4e12a6" />
 
+----
 ## 📂 Project Structure
 
 ```
