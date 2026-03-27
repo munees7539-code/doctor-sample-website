@@ -63,7 +63,7 @@ Minimalist interface with smooth animations and professional styling.
 ```
 doctor-sample-website
 │
-├── doctor.html
+├── index.html
 ├── README.md
 ```
 
