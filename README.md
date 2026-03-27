@@ -7,6 +7,7 @@ Built using **HTML, CSS, and JavaScript**, this project showcases a professional
 
 ## 🌐 Live Demo
 
+👉doctor-sample-website.vercel.app
 
 ---
 
@@ -44,6 +45,9 @@ Minimalist interface with smooth animations and professional styling.
 * Intersection Observer Animations
 
 ---
+##🖼️ Screenshots
+🏠 1️⃣ Home Page
+<img width="1866" height="866" alt="Screenshot 2026-03-27 111735" src="https://github.com/user-attachments/assets/05ef3dcc-0272-4ae0-91dc-a55bcb09e30b" />
 
 ## 📂 Project Structure
 
