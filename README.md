@@ -45,7 +45,7 @@ Minimalist interface with smooth animations and professional styling.
 * Intersection Observer Animations
 
 ---
-##🖼️ Screenshots
+🖼️ Screenshots
 -----
 🏠 1️⃣ Home Page
 
